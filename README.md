@@ -40,7 +40,8 @@ https://youtu.be/ZHwCf78kyEQ?si=-4VfTvC9Anm5akdF
 
 ## Protótipo
 
-O protótipo foi desenvolvido no Figma pela equipe. O link será disponibilizado assim que o acesso ao projeto for liberado.
+<img width="648" height="806" alt="Ideia App" src="https://github.com/user-attachments/assets/13667a8a-5f2b-4078-a45b-94a2139f3893" />
+
 
 ## Conquistas
 
