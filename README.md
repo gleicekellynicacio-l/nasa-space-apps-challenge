@@ -40,7 +40,10 @@ https://youtu.be/ZHwCf78kyEQ?si=-4VfTvC9Anm5akdF
 
 ## Protótipo
 
-<img width="648" height="806" alt="Ideia App" src="https://github.com/user-attachments/assets/13667a8a-5f2b-4078-a45b-94a2139f3893" />
+O protótipo foi desenvolvido no Figma pela equipe.
+
+<img width="648" height="806" alt="Ideia App" src="https://github.com/user-attachments/assets/13667a8a-5f2b-4078-a45b-94a2139f3893" /> <img width="1232" height="832" alt="Briefing" src="https://github.com/user-attachments/assets/24c34828-76a2-4d82-a748-2b3e6fd7d6b9" />
+<img width="1468" height="830" alt="Componentes App" src="https://github.com/user-attachments/assets/409ea553-920e-4583-9ecb-99b7e460607a" /><img width="1497" height="815" alt="Telas do App  1" src="https://github.com/user-attachments/assets/a291d2f4-fcbf-4684-ac3e-1df2b2d4bc66" /><img width="1583" height="826" alt="Telas do App 2" src="https://github.com/user-attachments/assets/24343b58-1046-4032-91d8-981e55816f67" />
 
 
 ## Conquistas
